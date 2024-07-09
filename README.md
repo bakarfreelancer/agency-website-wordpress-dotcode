@@ -44,7 +44,7 @@ Agency Website WordPress Template - Astra Theme with Elementor
 
 ![Services Page](https://github.com/bakarfreelancer/agency-website-wordpress-dotcode/blob/main/services.jpeg?raw=true)
 
-## Services Page
+## Projects Page
 
 ![Projects Page](https://github.com/bakarfreelancer/agency-website-wordpress-dotcode/blob/main/projects.jpeg?raw=true)
 
